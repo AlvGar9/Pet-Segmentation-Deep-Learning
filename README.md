@@ -8,7 +8,7 @@ This repository contains the implementation and analysis of four advanced deep l
 
 ## What is This Project?
 
-This project investigates and compares the effectiveness of different neural network architectures for semantic segmentation, a critical task in computer vision that involves assigning a class label to every pixel in an image[cite: 68]. The primary goal is to distinguish pets (cats and dogs) from the background with high precision.
+This project investigates and compares the effectiveness of different neural network architectures for semantic segmentation, a critical task in computer vision that involves assigning a class label to every pixel in an image. The primary goal is to distinguish pets (cats and dogs) from the background with high precision.
 
 Four distinct methodologies were implemented and evaluated:
 1.  A traditional **U-Net Architecture**.
@@ -99,5 +99,6 @@ An interactive user interface was developed with **Gradio** to showcase the poin
     ```bash
     python prompt_based_ui.py
     ```
+
 
 
