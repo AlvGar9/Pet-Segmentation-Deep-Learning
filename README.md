@@ -1,3 +1,5 @@
 ﻿# Pet-Segmentation-Deep-Learning
 
-![Demo GIF](assets/prompt_based_ui.gif)
+<p align="center">
+  <img src="assets/prompt_based_ui.gif" alt="Demo" width="800"/>
+</p>
