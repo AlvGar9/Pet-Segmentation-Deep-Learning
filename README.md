@@ -1,5 +1,5 @@
 ﻿# Pet-Segmentation-Deep-Learning
 
 <p align="center">
-  <img src="assets/prompt_based_ui.gif" alt="Demo" width="800"/>
+  <video src="assets/prompt_based_ui.mov" width="800" autoplay loop muted playsinline></video>
 </p>
