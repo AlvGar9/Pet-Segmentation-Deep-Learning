@@ -1,5 +1,15 @@
 # Advanced Pet Image Segmentation: A Comparative Study
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Task-Semantic%20Segmentation-blue" alt="Semantic Segmentation">
+  <img src="https://img.shields.io/badge/Model-Vision%20Transformer-red" alt="Vision Transformer">
+  <img src="https://img.shields.io/badge/Architecture-U--Net-purple" alt="U-Net Architecture">
+  <img src="https://img.shields.io/badge/Transfer%20Learning-CLIP-informational" alt="CLIP Transfer Learning">
+  <img src="https://img.shields.io/badge/Application-Pet%20Segmentation-darkgreen" alt="Pet Segmentation">
+  <img src="https://img.shields.io/badge/Interface-Gradio-orange" alt="Gradio UI">
+  <img src="https://img.shields.io/badge/Dataset-Oxford--IIIT%20Pets-yellow" alt="Oxford-IIIT Pet Dataset">
+</p>
+
 ![Project Demo](assets/demo.gif)
 
 This repository contains the implementation and analysis of four advanced deep learning architectures for image segmentation, evaluated on the Oxford-IIIT Pet Dataset. The project provides a comprehensive comparison of model performance, robustness, and the application of modern techniques like prompt-based segmentation.
@@ -99,6 +109,7 @@ An interactive user interface was developed with **Gradio** to showcase the poin
     ```bash
     python prompt_based_ui.py
     ```
+
 
 
 
